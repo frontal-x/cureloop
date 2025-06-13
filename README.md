@@ -136,8 +136,7 @@
 ## 📞 Contact
 
 - **Founder**: Abhishek Bansal  
-- **Email**: [you@example.com]  
-- **LinkedIn**: [linkedin.com/in/yourprofile]  
+- **Email**: abhishek.bansal12@gmail.com
 - **Website**: *Coming soon*
 
 ---
