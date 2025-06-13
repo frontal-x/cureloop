@@ -1,4 +1,4 @@
-# 🧠 CureLoop – Personal Health Cloud with AI Agents
+# CureLoop – Personal Health Cloud with AI Agents
 
 ## 📌 Vision
 
